@@ -1,0 +1,19 @@
+{
+    "name": "bmqmingqi/aliyun-applet",
+    "authors": [
+        {
+            "name": "bmqmingqi",
+            "email": "bmqmingqi@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "aliyun-applet\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
